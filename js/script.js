@@ -23,7 +23,19 @@ var quoteList = [
     {
         quote: "إن كنتم نسيتوا اللي جرى، هاتوا الدفاتر تنقرا.",
         quoteCountry: "أم الدنيا"
-    }
+    },
+    {
+        quote: "اللي خدته القرعه، تاخده أم الشعور.",
+        quoteCountry: "أم الدنيا"
+    },
+    {
+        quote: "بصلة المحب خروف.",
+        quoteCountry: "أم الدنيا"
+    },
+    {
+        quote: "إيش ياخد الريح من البلاط؟.",
+        quoteCountry: "أم الدنيا"
+    },
 ]
 
 function displayQuote(){
